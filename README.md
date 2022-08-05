@@ -1,4 +1,4 @@
-![avatar](E:\voice-package\kama\avatar.png)
+![avatar](README/avatar.png)
 
 <h2 style="text-align:center"> Rainbow Fart Kama </h2>
 
