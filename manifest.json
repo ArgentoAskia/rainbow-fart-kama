@@ -1,0 +1,328 @@
+{
+    "name": "fgo-kama",
+    "display-name": "fgo泳装伽摩语音包",
+    "version": "0.0.1",
+    "avatar": "avatar.png",
+    "avatar-dark": "avatar.png",
+    "author": "Askia",
+    "gender": "male",
+    "locale": "zh",
+    "description": "最  丢  人  的  beast",
+    "languages": [
+        "c",
+        "cpp",
+        "java",
+        "javascript"
+    ],
+    "contributes": [
+        {
+        	"keywords": ["abstract"],
+        	"voices": [
+        		"kama-summer-2/SV321_1_宝具卡2.mp3",
+                "kama-summer-3/SV321_2_攻击4.mp3",
+                "kama-summer-1/SV321_0_牵绊Lv2.mp3",
+                "kama-summer-1/SV321_0_牵绊Lv1.mp3"
+        	]
+        },
+        {
+        	"keywords": ["assert"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_技能2.mp3",
+                "kama-summer-2/SV321_1_技能2.mp3",
+                "kama-summer-3/SV321_2_技能2.mp3"
+        	]
+        },
+        {
+        	"keywords": ["let", "var", "boolean", "Boolean", "byte", "Byte", "char", "Character", "int", "Integer", "short", "Short", "long", "Long", "float", "Float", "double", "Double"],
+        	"voices": [
+                "kama-summer-1/SV321_0_攻击2.mp3",
+                "kama-summer-1/SV321_0_攻击3.mp3",
+                "kama-summer-2/SV321_1_攻击2.mp3",
+                "kama-summer-2/SV321_1_攻击3.mp3",
+                "kama-summer-3/SV321_2_攻击2.mp3",
+                "kama-summer-3/SV321_2_攻击3.mp3"
+        	]
+        },
+        {
+        	"keywords": ["break"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_攻击5.mp3",
+                "kama-summer-2/SV321_1_攻击5.mp3",
+                "kama-summer-3/SV321_2_攻击5.mp3"
+        	]
+        },
+        {
+        	"keywords": ["continue"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_攻击4.mp3",
+                "kama-summer-2/SV321_1_攻击4.mp3",
+                "kama-summer-3/SV321_2_攻击4.mp3"
+        	]
+        },
+        {
+        	"keywords": ["switch"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_开始1.mp3",
+                "kama-summer-2/SV321_1_开始1.mp3",
+                "kama-summer-3/SV321_2_开始1.mp3"
+        	]
+        },
+        {
+        	"keywords": ["case"],
+        	"voices": [
+                "kama-summer-1/SV321_0_宝具卡1.mp3",
+        		"kama-summer-1/SV321_0_Extra1.mp3",
+                "kama-summer-2/SV321_1_宝具卡1.mp3",
+        		"kama-summer-2/SV321_1_Extra1.mp3",
+                "kama-summer-3/SV321_2_宝具卡1.mp3",
+        		"kama-summer-3/SV321_2_Extra1.mp3"
+        	]
+        },
+        {
+        	"keywords": ["try"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_Extra2.mp3",
+                "kama-summer-2/SV321_1_Extra2.mp3",
+                "kama-summer-3/SV321_2_Extra2.mp3"
+        	]
+        },
+        {
+        	"keywords": ["catch"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_开始2.mp3",
+                "kama-summer-2/SV321_1_开始2.mp3",
+                "kama-summer-3/SV321_2_开始2.mp3"
+        	]
+        },
+        {
+        	"keywords": ["finally"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_技能1.mp3",
+                "kama-summer-2/SV321_1_技能1.mp3",
+                "kama-summer-3/SV321_2_技能1.mp3"
+        	]
+        },
+        {
+        	"keywords": ["class", "interface", "enum"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_技能3.mp3",
+                "kama-summer-2/SV321_1_技能3.mp3",
+                "kama-summer-3/SV321_2_技能3.mp3"
+        	]
+        },
+        {
+        	"keywords": ["const", "final"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_指令卡3.mp3",
+                "kama-summer-2/SV321_1_指令卡3.mp3",
+                "kama-summer-3/SV321_2_指令卡3.mp3"
+        	]
+        },
+        {
+        	"keywords": ["static"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_攻击1.mp3",
+                "kama-summer-2/SV321_1_攻击1.mp3",
+                "kama-summer-3/SV321_2_攻击1.mp3"
+        	]
+        },
+        {
+        	"keywords": ["public"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_指令卡1.mp3",
+                "kama-summer-2/SV321_1_指令卡1.mp3",
+                "kama-summer-3/SV321_2_指令卡1.mp3"
+        	]
+        },
+        {
+        	"keywords": ["protected", "default"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_指令卡2.mp3",
+                "kama-summer-2/SV321_1_指令卡2.mp3",
+                "kama-summer-3/SV321_2_指令卡2.mp3"
+        	]
+        },
+        {
+        	"keywords": ["private"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_无法战斗2.mp3",
+                "kama-summer-2/SV321_1_无法战斗2.mp3",
+                "kama-summer-3/SV321_2_无法战斗2.mp3"
+        	]
+        },
+        {
+        	"keywords": ["extends", "implements"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_宝具1.mp3",
+                "kama-summer-2/SV321_1_宝具1.mp3",
+                "kama-summer-3/SV321_2_宝具1.mp3"
+        	]
+        },
+        {
+        	"keywords": ["fori", "foreach","for"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_攻击6.mp3",
+                "kama-summer-2/SV321_1_攻击6.mp3",
+                "kama-summer-3/SV321_2_攻击6.mp3"
+        	]
+        },
+        {
+        	"keywords": ["goto"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_宝具卡2.mp3",
+                "kama-summer-2/SV321_1_宝具卡2.mp3",
+                "kama-summer-3/SV321_2_宝具卡2.mp3"
+        	]
+        },
+        {
+        	"keywords": ["if"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_升级1.mp3",
+                "kama-summer-2/SV321_1_升级1.mp3",
+                "kama-summer-3/SV321_2_升级1.mp3"
+        	]
+        },
+        {
+        	"keywords": ["else", "else if"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_对话1.mp3",
+                "kama-summer-2/SV321_1_对话1.mp3",
+                "kama-summer-3/SV321_2_对话1.mp3"
+        	]
+        },
+        {
+        	"keywords": ["@import", "import", "#include"],
+        	"voices": [
+        		"kama-summer-1/SV321_0_召唤.mp3",
+                "kama-summer-2/SV321_1_召唤.mp3",
+                "kama-summer-3/SV321_2_召唤.mp3"
+        	]
+        },
+        {
+            "keywords": ["using"],
+            "voices": [
+                "kama-summer-1/SV321_0_胜利1.mp3",
+                "kama-summer-2/SV321_1_胜利1.mp3",
+                "kama-summer-3/SV321_2_胜利1.mp3"
+            ]
+        },
+        {
+            "keywords": ["instanceof", "typeof"],
+            "voices": [
+                "kama-summer-1/SV321_0_升级2.mp3",
+                "kama-summer-2/SV321_1_升级2.mp3",
+                "kama-summer-3/SV321_2_升级2.mp3"
+            ]
+        },
+        {
+            "keywords": ["sizeof"],
+            "voices": [
+                "kama-summer-1/SV321_0_胜利2.mp3",
+                "kama-summer-2/SV321_1_胜利2.mp3",
+                "kama-summer-3/SV321_2_胜利2.mp3"
+            ]
+        },
+        {
+            "keywords": ["native"],
+            "voices": [
+                "kama-summer-1/SV321_0_牵绊Lv3.mp3",
+                "kama-summer-2/SV321_1_牵绊Lv3.mp3",
+                "kama-summer-3/SV321_2_牵绊Lv3.mp3"
+            ]
+        },
+        {
+            "keywords": ["return"],
+            "voices": [
+                "kama-summer-1/SV321_0_牵绊Lv5.mp3",
+                "kama-summer-1/SV321_0_牵绊Lv4.mp3",
+                "kama-summer-2/SV321_1_牵绊Lv5.mp3",
+                "kama-summer-2/SV321_1_牵绊Lv4.mp3",
+                "kama-summer-3/SV321_2_牵绊Lv5.mp3",
+                "kama-summer-3/SV321_2_牵绊Lv4.mp3"
+            ]
+        },
+        {
+            "keywords": ["new"],
+            "voices": [
+                "kama-summer-1/SV321_0_宝具2.mp3",
+                "kama-summer-2/SV321_1_宝具2.mp3",
+                "kama-summer-3/SV321_2_宝具2.mp3"
+            ]
+        },
+        {
+            "keywords": ["this"],
+            "voices": [
+                "kama-summer-1/SV321_0_喜欢的东西.mp3",
+                "kama-summer-2/SV321_1_喜欢的东西.mp3",
+                "kama-summer-3/SV321_2_喜欢的东西.mp3"
+            ]
+        },
+        {
+            "keywords": ["super"],
+            "voices": [
+                "kama-summer-1/SV321_0_讨厌的东西.mp3",
+                "kama-summer-2/SV321_1_讨厌的东西.mp3",
+                "kama-summer-3/SV321_2_讨厌的东西.mp3"
+            ]
+        },
+        {
+            "keywords": ["throw", "throws"],
+            "voices": [
+                "kama-summer-1/SV321_0_对话3.mp3",
+                "kama-summer-2/SV321_1_对话3.mp3",
+                "kama-summer-3/SV321_2_对话3.mp3"
+            ]
+        },
+        {
+            "keywords": ["synchronized", "volatile"],
+            "voices": [
+                "kama-summer-1/SV321_0_宝具3.mp3",
+                "kama-summer-2/SV321_1_宝具3.mp3",
+                "kama-summer-3/SV321_2_宝具3.mp3"
+            ]
+        },
+        {
+            "keywords": ["void", "Void"],
+            "voices": [
+                "kama-summer-1/SV321_0_受击2.mp3",
+                "kama-summer-2/SV321_1_受击2.mp3",
+                "kama-summer-3/SV321_2_受击2.mp3"
+            ]
+        },
+        {
+            "keywords": ["transient", "Serializable"],
+            "voices": [
+                "kama-summer-1/SV321_0_无法战斗1.mp3",
+                "kama-summer-2/SV321_1_无法战斗1.mp3",
+                "kama-summer-3/SV321_2_无法战斗1.mp3"
+            ]
+        },
+        {
+            "keywords": ["while", "do"],
+            "voices": [
+                "kama-summer-1/SV321_0_攻击6.mp3",
+                "kama-summer-2/SV321_1_攻击6.mp3",
+                "kama-summer-3/SV321_2_攻击6.mp3"
+            ]
+        },
+        {
+            "keywords": ["main", "tmain"],
+            "voices": [
+                "kama-summer-1/SV321_0_对话2.mp3",
+                "kama-summer-2/SV321_1_对话2.mp3",
+                "kama-summer-3/SV321_2_对话2.mp3"
+            ]
+        },
+        {
+            "keywords": ["String"],
+            "voices": [
+                "kama-summer-1/SV321_0_关于圣杯.mp3",
+                "kama-summer-2/SV321_1_关于圣杯.mp3",
+                "kama-summer-3/SV321_2_关于圣杯.mp3"
+            ]
+        }
+
+
+        
+    ]
+}
