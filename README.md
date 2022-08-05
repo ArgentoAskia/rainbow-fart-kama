@@ -1,7 +1,8 @@
+<h1 align="center">
+<br>
 <img src="README/avatar.png" align="center"/>
-
-<h1 align="center">Rainbow Fart Kama</h1>
-
+<br>
+Rainbow Fart Kama</h1>
 `FGO`伽摩语言包，音源来源自[`Mooncell`](https://fgo.wiki/w/迦摩(Avenger)#.E8.AF.AD.E9.9F.B3)。
 
 - `master`打过的最丢人的一届`beast`！
